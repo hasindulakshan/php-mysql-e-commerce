@@ -4,7 +4,7 @@ This project is a simple e-commerce form built using HTML, PHP, and MySQL. It al
 
 ## Features
 - Insert customer information into a database.
-- Search for customer information by customer ID.
+- Search for customer information using customer ID.
 
 ## Technologies Used
 - HTML
