@@ -20,8 +20,8 @@ This project is a simple e-commerce form built using HTML, PHP, and MySQL. It al
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-username/e-commerce-form.git
-cd e-commerce-form
+git clone https://github.com/your-username/php-mysql-e-commerce.git
+cd php-mysql-e-commerce
 ```
 
 ### Step 2: Set Up the MySQL Database
