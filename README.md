@@ -16,7 +16,7 @@ This project is a simple e-commerce form built using HTML, PHP, and MySQL. It al
 
 ### Prerequisites
 - A local web server environment like XAMPP, WAMP, or MAMP.
-- Basic knowledge of PHP, MySQL, and how to use a local server.
+- Basic knowledge of PHP and MySQL and how to use a local server.
 
 ### Step 1: Clone the Repository
 ```sh
@@ -46,11 +46,11 @@ cd e-commerce-form
 1. Place the project files in your server's root directory:
    - For XAMPP: 
      ```sh
-     C:\xampp\htdocs\e-commerce-form\
+     C:\xampp\htdocs\php-mysql-e-commerce\
      ```
    - For MAMP: 
      ```sh
-     Applications/MAMP/htdocs/e-commerce-form/
+     Applications/MAMP/htdocs/php-mysql-e-commerce/
      ```
   
 2. Open your web browser and navigate to:
